@@ -1,7 +1,7 @@
 var cacheName = 'hellopwa';
 var filesToCache = [
   '/',
-  '/index.php',
+  '/index.html',
   '/css/style.css',
   '/js/main.js'
 ];
